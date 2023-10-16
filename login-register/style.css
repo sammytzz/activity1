@@ -1,0 +1,35 @@
+body{
+    padding:50px;
+    background-color: #092536;
+    ;
+}
+h1 {
+    color:#f99b3c; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+h2, label {
+    color:#f99b3c; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+p, label {
+    color:#f99b3c; 
+    text-align: center;
+    line-height: 300%;
+}
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    color: black;
+}
+.form-btn {
+    text-align: center;
+}
+.form-group{
+    margin-bottom:30px;
+}
